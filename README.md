@@ -1,4 +1,4 @@
-# <center> Hello! I'm Osoraa. Codename **devn0n**. </center>
+# <center> Hello! I'm Osoraa. </center>
 
 ## <center> Software/Site Reliability Engineer </center>
 
