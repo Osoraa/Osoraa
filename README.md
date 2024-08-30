@@ -8,7 +8,8 @@ Find me on [![LinkedIn][1.1]][1]
 
 B.Eng. in Electronics living in Lagos, Nigeria.
 
-Obsessed with System Efficiency. Key interests include: 
+Obsessed with System Efficiency. Key interests include:
+
 - Container Orchestration.
 - Observability
 - Cloud Infrastructure Engineering
@@ -18,13 +19,13 @@ Obsessed with System Efficiency. Key interests include:
 
 ### 🛠 What I do
 
-Key languages include: 
+Key languages include:
+
 - Python
 - C
 - Bash
 
 🤞🏾 Very much interested in Go, Rust, Messaging Architectures, and the Cloud.
-
 
 ## More Details
 
@@ -32,8 +33,8 @@ Key languages include:
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon"
 
-<!-- Links to your social media accounts -->
+<!-- Links to my social media accounts -->
 
 [1]: https://linkedin.com/in/osoraa
