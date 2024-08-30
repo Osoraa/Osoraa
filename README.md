@@ -29,7 +29,7 @@ Key languages include:
 
 ## More Details
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=osoraa)](https://github.com/osoraa)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=osoraa)]
 
 <!-- Icons -->
 
