@@ -16,16 +16,19 @@ Obsessed with System Efficiency. Key interests include:
 - Platform Automation.
 - Clean Architecture.
 - Linux Internals
+- Chaos & Resilience Engineering
 
 ### 🛠 What I do
 
 Key languages include:
 
 - Python
+- GO
+- Rust
 - C
 - Bash
 
-🤞🏾 Very much interested in Go, Rust, Messaging Architectures, and the Cloud.
+🤞🏾 Very much interested in ProtoBuf, Messaging Architectures, and Cloud Engineering.
 
 ## More Details
 
