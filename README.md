@@ -31,6 +31,9 @@ Key languages include:
 🤞🏾 Very much interested in ProtoBuf, Messaging Architectures, and Cloud Engineering.
 
 ## More Details
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/b004448e-0610-412a-ae2c-a065558e6d3e/thumbnail" >
+</p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=osoraa)
 
